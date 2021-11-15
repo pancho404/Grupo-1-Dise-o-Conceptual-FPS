@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 176
+  controlID: 156
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 132
+  controlID: 131
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -407,9 +407,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 943.8153, y: 311.19498, z: -40.975616}
+    m_Target: {x: 729.4421, y: 600.574, z: -141.94838}
     speed: 2
-    m_Value: {x: 943.8153, y: 311.19498, z: -40.975616}
+    m_Value: {x: 729.4421, y: 600.574, z: -141.94838}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -460,9 +460,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 679.04846
+    m_Target: 676.1337
     speed: 2
-    m_Value: 679.04846
+    m_Value: 676.1337
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -518,7 +518,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 52fbffff1246000052460000004700000a4700003647000046470000564700007247000086470000
+      m_ExpandedIDs: a830ffffde030100e2040100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -580,14 +580,15 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/FPS/Art/Fonts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Usuario\Documents\GitHub\Grupo-1-Dise-o-Conceptual-FPS\Valorant
+  m_LastProjectPath: C:\Users\Sanchez\Documents\GitHub\Grupo-1-Dise-o-Conceptual-FPS\Valorant
     2.0
   m_LockTracker:
     m_IsLocked: 0
@@ -595,7 +596,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b0210100
     m_LastClickedID: 74160
-    m_ExpandedIDs: 000000009448000096480000984800009a4800009c4800009e480000a0480000a2480000a4480000a6480000a8480000aa480000ac480000
+    m_ExpandedIDs: 00000000f4ce0000da050100dc050100de050100e0050100e2050100e4050100e6050100e8050100ea050100ec050100ee050100f0050100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -620,10 +621,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 180}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000009448000096480000984800009a4800009c4800009e480000a0480000a2480000a4480000a6480000a8480000aa480000ac480000
+    m_ExpandedIDs: ffffffff00000000b6210000f4ce0000da050100dc050100de050100e0050100e2050100e4050100e6050100e8050100ea050100ec050100ee050100f00501002a060100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
