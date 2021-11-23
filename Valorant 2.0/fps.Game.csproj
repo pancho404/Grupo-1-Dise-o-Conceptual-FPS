@@ -53,9 +53,12 @@
     <UnityVersion>2020.3.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\FPS\Scripts\Game\Managers\LogicFullScreen.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\TimedSelfDestruct.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\MeshCombiner.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Events.cs" />
+    <Compile Include="Assets\FPS\Scripts\Game\Managers\BrightnessLogic.cs" />
+    <Compile Include="Assets\FPS\Scripts\Game\Managers\VolumeLogic.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Managers\ObjectiveManager.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Shared\Objective.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Managers\ActorsManager.cs" />
@@ -309,14 +312,8 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.WebGL.Extensions">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UWP.Extensions">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
